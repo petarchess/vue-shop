@@ -23,21 +23,22 @@ This project demonstrates a lightweight shopping cart application with pages for
 
 ## 🗂️ Project Structure
 
-`src/
+```text
+src/
 ├── components/
-│ ├── CartItem.vue
-│ ├── Footer.vue
-│ ├── HelloWorld.vue
-│ └── ProductCard.vue
+│   ├── CartItem.vue
+│   ├── Footer.vue
+│   ├── HelloWorld.vue
+│   └── ProductCard.vue
 │
 ├── pages/
-│ ├── About.vue
-│ ├── Cart.vue
-│ ├── Contact.vue
-│ └── Shop.vue
+│   ├── About.vue
+│   ├── Cart.vue
+│   ├── Contact.vue
+│   └── Shop.vue
 │
 ├── App.vue
-└── main.js`
+└── main.js
 
 ---
 
