@@ -39,8 +39,7 @@ src/
 │
 ├── App.vue
 └── main.js
-
----
+```
 
 ## 🚀 Getting Started
 
