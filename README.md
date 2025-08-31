@@ -23,7 +23,7 @@ This project demonstrates a lightweight shopping cart application with pages for
 
 ## 🗂️ Project Structure
 
-src/
+`src/
 ├── components/
 │ ├── CartItem.vue
 │ ├── Footer.vue
@@ -37,10 +37,7 @@ src/
 │ └── Shop.vue
 │
 ├── App.vue
-└── main.js
-
-yaml
-Copy code
+└── main.js`
 
 ---
 
